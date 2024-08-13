@@ -24,6 +24,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> 
  </p>
  <br><br>
-<p align="center"> <a href="https://razorpay.me/@mrspidy?amount=bd6mwPoVV2sRePhB8DGUcw%3D%3D">
+<!-- <p align="center"> <a href="">
  <img src="https://github.com/YoKshirsagar/YoKshirsagar/blob/main/Razorpay.png" alt="YoKshirsagar"/>
-</a> </p>
+</a> </p> -->
