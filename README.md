@@ -1,7 +1,10 @@
+
 ![logo](https://github.com/YoKshirsagar/YoKshirsagar/blob/main/Banner.png)
+<hr />
 <h1 align="center">Hi 👋, I'm Kshirsagar Yogesh</h1>
 <!-- <h3 align="center">A passionate Software Engineer from India</h3>
  -->
+
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=YoKshirsagar&label=Profile%20views&color=0e75b6&style=for-the-badge&base=10000" alt="YoKshirsagar" /> </p>
@@ -13,7 +16,7 @@
 <a href="https://www.facebook.com/kshirsagar.yogesh.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Kshirsagar Yogesh" height="30" width="40" /></a>
 <a href="https://github.com/YoKshirsagar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Kshirsagar Yogesh" height="30" width="40" /></a>
 </p>
-
+<hr />
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
@@ -24,6 +27,18 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> 
  </p>
  <br><br>
+
+ ```python
+
+                                       while (knowledge < infinite) {
+                                           learnNew();          # Expand horizons
+                                           solveProblem();      # Overcome challenges
+                                           refineSkills();      # Master the craft
+                                       }
+# Coding is like sculpting with logic. You start with raw ideas, and through careful construction and refinement, you create something tangible and functional.
+ ```
+
 <!-- <p align="center"> <a href="">
  <img src="https://github.com/YoKshirsagar/YoKshirsagar/blob/main/Razorpay.png" alt="YoKshirsagar"/>
 </a> </p> -->
+<hr />
