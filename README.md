@@ -5,6 +5,7 @@
 <!-- <h3 align="center">A passionate Software Engineer from India</h3>
  -->
 
+
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=YoKshirsagar&label=Profile%20views&color=0e75b6&style=for-the-badge&base=10000" alt="YoKshirsagar" /> </p>
@@ -37,6 +38,8 @@
                                        }
 # Coding is like sculpting with logic. You start with raw ideas, and through careful construction and refinement, you create something tangible and functional.
  ```
+### Quote
+> "Any fool can write code that a computer can understand. Good programmers write code that humans can understand."
 
 <!-- <p align="center"> <a href="">
  <img src="https://github.com/YoKshirsagar/YoKshirsagar/blob/main/Razorpay.png" alt="YoKshirsagar"/>
